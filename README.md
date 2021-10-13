@@ -1,5 +1,6 @@
 # Python-Task-Manager
 Simple Windows Task Manager on Python:
+
 System monitoring: `psutil`
 UI: `Tkinter`
 
