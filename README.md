@@ -5,4 +5,4 @@ System monitoring: `psutil`
 
 UI: `Tkinter`
 
-https://media.discordapp.net/attachments/798142580508065804/897864048551534652/Screenshot_11.png?width=725&height=545
+<img src="https://media.discordapp.net/attachments/798142580508065804/897864048551534652/Screenshot_11.png?width=725&height=545">
